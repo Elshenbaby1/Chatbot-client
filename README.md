@@ -3,7 +3,9 @@ Go RPC Chat Server & Client
 A simple multi-client chat application built using Go’s native RPC (Remote Procedure Call) library.
 This project demonstrates concurrent client handling, thread-safe message storage, and real-time chat synchronization — all in under a few hundred lines of Go code.
 
-🎥 Demo Video: Watch Here
+🎥 Demo Video: 
+https://drive.google.com/drive/folders/1Y-AS9-6lKEDeZGgzYDELHn_viwdXpewF
+
 
 🚀 Features
 

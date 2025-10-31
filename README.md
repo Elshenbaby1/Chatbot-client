@@ -135,33 +135,8 @@ go-rpc-chat/
 🧪 Testing Multi-Client Chat
 
 Start the server in one terminal
-
 Open 2–3 new terminals
-
 Run the client in each with different names
-
 Type messages in any client — all others receive them in real time
 
-🐛 Troubleshooting
-Issue	Solution
-go: command not found	Install Go and ensure it’s added to your PATH
-Dialing error	Make sure the server is running before launching clients
-Address already in use	Stop any other process using port 1234 or change the port in both files
-📝 License
 
-This project is open-source under the MIT License.
-Feel free to use, modify, and distribute it as you wish.
-
-🤝 Contributing
-
-Contributions, feature requests, and issues are welcome!
-
-Fork the repo
-
-Create your feature branch (git checkout -b feature/AmazingFeature)
-
-Commit your changes
-
-Push to the branch
-
-Open a Pull Request 🎉
